@@ -1,0 +1,1050 @@
+{
+  "DisNo": "2017-0381-PRI",
+  "disaster_type": "Storm",
+  "country": "Puerto Rico",
+  "location": "North. Culebra and Vieques Islands",
+  "start_dt": "2017-09-06",
+  "storyline": "**Factsheet: Storm Event in Puerto Rico**\n\n- **Key information:** A severe storm event impacted the northern regions of Puerto Rico, specifically the Culebra and Vieques Islands, in September 2017.\n\n- **Severity:** High\n\n- **Key drivers:** The storm's impact was exacerbated by existing economic struggles and infrastructure vulnerabilities.\n\n- **Main impacts, exposure, and vulnerability:** \n  - Economic damage: Significant, with power outages affecting 17% of the commonwealth and long-term power restoration challenges anticipated.\n  - People affected: Approximately one million customers without power; 50,000 people without access to safe water.\n  - Fatalities: Three reported deaths due to storm-related incidents.\n  - Effects on communities and infrastructure: Severe damage to power infrastructure, with prolonged outages expected; government offices and schools temporarily closed.\n\n- **Likelihood of multi-hazard risks:** High, as subsequent storms like Hurricane Jose were a concern, and prolonged power outages could lead to further complications.\n\n- **Best practices for managing this risk:** \n  - Strengthening infrastructure resilience, particularly power and water systems.\n  - Implementing comprehensive emergency preparedness and response plans.\n  - Mobilizing resources and support from national and international agencies promptly.\n\n- **Recommendations and supportive measures for recovery:** \n  - Expedite power restoration efforts and ensure safe water access.\n  - Provide financial and logistical support for rebuilding efforts.\n  - Encourage community involvement in recovery and resilience-building initiatives.\n  - Seek long-term economic support to address underlying vulnerabilities.",
+  "knowledge_graph_original": "```json\n[\n  [\"severe storm\", \"causes\", \"economic damage\"],\n  [\"severe storm\", \"causes\", \"power outages\"],\n  [\"severe storm\", \"causes\", \"water access issues\"],\n  [\"severe storm\", \"causes\", \"fatalities\"],\n  [\"economic struggles\", \"causes\", \"infrastructure vulnerabilities\"],\n  [\"infrastructure vulnerabilities\", \"causes\", \"power outages\"],\n  [\"power outages\", \"causes\", \"further complications\"],\n  [\"strengthening infrastructure\", \"prevents\", \"power outages\"],\n  [\"emergency preparedness\", \"prevents\", \"fatalities\"],\n  [\"resource mobilization\", \"prevents\", \"prolonged outages\"]\n]\n```",
+  "knowledge_graph_with_citations": [
+    {
+      "source": "severe storm",
+      "relation": "causes",
+      "target": "economic damage",
+      "question": "What specific factors during the severe storm in Puerto Rico led to significant economic damage, and what evidence from news reports supports this causal relationship?",
+      "answer": "During the severe storm in Puerto Rico, several specific factors contributed to significant economic damage. Firstly, the storm caused widespread power outages, affecting one million customers, which represented 17 percent of the commonwealth [1]. This disruption in power supply likely hampered businesses and essential services, exacerbating the economic strain. Additionally, an estimated 50,000 people were left without access to safe water, further complicating recovery efforts and daily life [1].\n\nThe storm also resulted in fatalities, including a woman who died after making contact with an electric wall socket, a bedridden woman who died en route to a hospital, and a man who died in a car accident during poor weather conditions [1]. These incidents highlight the immediate human toll and potential long-term impacts on the workforce and community stability.\n\nMoreover, the economic damage was compounded by the pre-existing financial struggles of Puerto Rico. The government had already instituted furloughs, and there had been a significant migration of Puerto Ricans to the U.S. mainland over the past decade, indicating a fragile economic situation even before the storm [2]. The storm intensified these issues, as noted by Ocasio, who stated that the economic situation was dire and the storm put the \"fear of god\" in people, underscoring the heightened awareness and concern about the economic challenges [2].\n\nThese factors collectively illustrate how the storm not only caused immediate physical and infrastructural damage but also deepened the ongoing economic crisis in Puerto Rico.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "source": "severe storm",
+      "relation": "causes",
+      "target": "power outages",
+      "question": "What specific factors during the severe storm in Puerto Rico led to the power outages, and how did these factors contribute to the disruption of the electrical infrastructure?",
+      "answer": "During the severe storm in Puerto Rico, several factors contributed to the power outages and the disruption of the electrical infrastructure. Firstly, Hurricane Irma's impact on the region, particularly on the smaller islands of Vieques and Culebra, was significant, leading to widespread damage [1]. The storm's severity resulted in one million customers, or 17 percent of the commonwealth, being without power [1]. This extensive power outage was exacerbated by the existing economic struggles of Puerto Rico, which had already been facing financial difficulties, including government furloughs and a significant diaspora to the U.S. mainland [2]. The combination of the storm's physical impact and the pre-existing economic challenges created a dire situation for the electrical infrastructure, with power problems expected to persist for up to four to six months [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "source": "severe storm",
+      "relation": "causes",
+      "target": "water access issues",
+      "question": "What specific factors during the severe storm in Puerto Rico led to disruptions in water access, and how were these disruptions reported in news articles?",
+      "answer": "During the severe storm in Puerto Rico, one specific factor that led to disruptions in water access was the impact on the power infrastructure. The storm left one million customers, representing 17 percent of the commonwealth, without power, which likely affected the operation of water systems and contributed to the lack of access to safe water for an estimated 50,000 people living in the U.S. territory [1]. This disruption in water access was reported in news articles highlighting the dire situation faced by Puerto Rico in the aftermath of Hurricane Irma, as the government and residents grappled with the storm's impact on essential services [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "severe storm",
+      "relation": "causes",
+      "target": "fatalities",
+      "question": "What specific factors during the severe storm in Puerto Rico led to fatalities, and how were these factors reported in news articles?",
+      "answer": "During the severe storm in Puerto Rico, several specific factors led to fatalities. One fatality occurred when a woman died in her home after making contact with an electric wall socket [1]. Another incident involved a 79-year-old bedridden woman in Manatí who died after being taken to a hospital while on her way to a shelter [1]. Additionally, a man died in a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions [1]. These factors were reported in news articles as part of the broader impact of the storm on the region, highlighting the dangerous conditions and the challenges faced by residents during the storm [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "economic struggles",
+      "relation": "causes",
+      "target": "infrastructure vulnerabilities",
+      "question": "What specific evidence from news articles demonstrates how economic struggles in Puerto Rico contributed to infrastructure vulnerabilities during the storm event?",
+      "answer": "The economic struggles in Puerto Rico contributed to infrastructure vulnerabilities during the storm event as evidenced by several factors. Firstly, the government had instituted furloughs, which likely reduced the workforce available to maintain and repair infrastructure, thereby exacerbating vulnerabilities during the storm [1]. Additionally, the economic situation had already led to a significant diaspora, with half a million Puerto Ricans moving to the U.S. mainland over the past decade, which could have resulted in a reduced local population to support recovery efforts and maintain infrastructure [1]. These economic challenges were highlighted by the fact that one million customers, representing 17 percent of the commonwealth, were without power after the storm, and an estimated 50,000 people did not have access to safe water, indicating significant infrastructure failures [2]. Governor Rossello's statement that power problems could persist for four to six months further underscores the impact of economic struggles on the island's ability to quickly recover and repair its infrastructure [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "source": "infrastructure vulnerabilities",
+      "relation": "causes",
+      "target": "power outages",
+      "question": "What specific infrastructure vulnerabilities in Puerto Rico were identified as contributing factors to the power outages during the storm, and how did these vulnerabilities directly lead to the outages according to news reports?",
+      "answer": "The specific infrastructure vulnerabilities in Puerto Rico that contributed to the power outages during Hurricane Irma included the island's already fragile power grid and the lack of maintenance and investment in infrastructure. The storm exacerbated these existing weaknesses, leading to significant power outages. According to reports, one million customers, representing 17 percent of the commonwealth, were without power following the storm [1]. The power problems were anticipated to persist for up to four to six months, indicating the severity of the infrastructure's vulnerability [1]. The lack of access to safe water for an estimated 50,000 people also highlights the broader infrastructural challenges faced by Puerto Rico during the storm [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "power outages",
+      "relation": "causes",
+      "target": "further complications",
+      "question": "What specific complications arose in Puerto Rico due to power outages during the storm, and what evidence from news reports supports the causal link between the power outages and these complications?",
+      "answer": "During Hurricane Irma, Puerto Rico faced significant complications due to power outages. One million customers, representing 17 percent of the commonwealth, were without power, which indicates a widespread impact on the island's infrastructure [1]. The power outages contributed to several critical issues, including the lack of access to safe water for an estimated 50,000 people living in the U.S. territory [1]. Additionally, the power problems were expected to persist, potentially affecting the region for up to four to six months, which would further complicate recovery efforts and daily life [1]. These outages also coincided with tragic incidents, such as a woman dying after making contact with an electric wall socket, highlighting the dangerous conditions exacerbated by the lack of electricity [1]. The Puerto Rico Governor's Office confirmed these incidents, underscoring the direct link between the power outages and the complications faced by residents during the storm [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "strengthening infrastructure",
+      "relation": "prevents",
+      "target": "power outages",
+      "question": "What specific measures were taken to strengthen infrastructure in Puerto Rico prior to the storm, and how did these measures contribute to preventing power outages during the event?",
+      "answer": "The provided sources do not mention any specific measures taken to strengthen infrastructure in Puerto Rico prior to Hurricane Irma. Consequently, there is no information available on how such measures might have contributed to preventing power outages during the event. The sources only discuss the aftermath of the hurricane, including the power outages that affected one million customers, representing 17 percent of the commonwealth, and the mobilization of the Army National Guard to aid in recovery efforts [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "emergency preparedness",
+      "relation": "prevents",
+      "target": "fatalities",
+      "question": "What specific emergency preparedness measures were implemented in Puerto Rico during the storm, and how did these measures contribute to reducing fatalities?",
+      "answer": "During Hurricane Irma, Puerto Rico implemented several emergency preparedness measures to mitigate the impact of the storm and reduce fatalities. The Puerto Rico Governor’s Office reported that the Defense Department confirmed the mobilization of the Army National Guard to assist in recovery efforts, which is a critical measure in providing immediate aid and maintaining order during such emergencies [1]. Additionally, the government planned to reopen shuttered offices and schools on September 11, indicating a structured approach to returning to normalcy and ensuring public safety [1]. \n\nDespite these efforts, there were still fatalities reported, including a woman who died after making contact with an electric wall socket, a bedridden woman who died on her way to a shelter, and a man who died in a car accident during poor weather conditions [1]. These incidents highlight the challenges in completely preventing fatalities during such severe weather events, even with emergency measures in place. However, the mobilization of the National Guard and the structured reopening of public services likely contributed to reducing the potential for further casualties by providing organized support and resources to the affected population [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "resource mobilization",
+      "relation": "prevents",
+      "target": "prolonged outages",
+      "question": "What specific instances of resource mobilization during the storm in Puerto Rico effectively prevented prolonged outages, and what evidence from news articles supports these actions?",
+      "answer": "During Hurricane Irma, specific instances of resource mobilization in Puerto Rico included the confirmation by the Defense Department to mobilize the Army National Guard to aid in recovery efforts. This action was part of the government's response to address the power outages and other issues caused by the storm [1]. Additionally, there were efforts to repair damaged power lines, as evidenced by footage retweeted by Governor Ricardo Rossello showing men who appeared to be power crews working on the lines [1]. These actions were part of the broader strategy to mitigate the impact of the storm and prevent prolonged outages, although the governor warned that power problems could persist for up to four to six months [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    }
+  ],
+  "n_links": 10,
+  "n_articles": 2,
+  "total_citations": 13,
+  "nodes_with_citations": [
+    {
+      "node": "economic damage",
+      "question": "What evidence is available regarding the extent and impact of economic damage caused by the storm in Puerto Rico, and how has this affected the island's recovery efforts and long-term economic stability?",
+      "answer": "Hurricane Irma exacerbated Puerto Rico's already dire economic situation, with significant power outages affecting one million customers and 50,000 people lacking access to safe water, which hindered recovery efforts and could prolong power issues for four to six months [1]. The storm highlighted the island's economic struggles, with a history of government furloughs and a diaspora of half a million Puerto Ricans moving to the U.S. mainland over the past decade, further complicating long-term economic stability [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "economic struggles",
+      "question": "What evidence is there to demonstrate the impact of economic struggles on Puerto Rico's ability to recover from the storm, and how have these struggles influenced the overall disaster response and rebuilding efforts?",
+      "answer": "Puerto Rico's economic struggles have significantly impacted its ability to recover from Hurricane Irma, as evidenced by the dire financial situation exacerbated by the storm, which has led to furloughs and a significant diaspora of Puerto Ricans to the U.S. mainland over the past decade [1]. The economic challenges have heightened the difficulties in disaster response and rebuilding efforts, with power outages affecting 17% of the commonwealth and an estimated 50,000 people lacking access to safe water, while recovery efforts are expected to take four to six months [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "emergency preparedness",
+      "question": "What evidence is there regarding the role and impact of emergency preparedness measures in mitigating the effects of the storm in Puerto Rico?",
+      "answer": "The impact of emergency preparedness measures in Puerto Rico following Hurricane Irma included the mobilization of the Army National Guard to aid in recovery efforts, as confirmed by the Defense Department [1]. Despite these measures, the storm exacerbated existing economic struggles, highlighting the dire situation and the need for long-term recovery efforts [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "fatalities",
+      "question": "What evidence is available regarding the role or impact of fatalities during the storm in Puerto Rico, and how did these fatalities influence the overall response and recovery efforts?",
+      "answer": "During Hurricane Irma, Puerto Rico experienced several fatalities, including a woman who died from electrocution, a bedridden woman who passed away en route to a hospital, and a man who died in a car accident during poor weather conditions [1]. These fatalities underscored the severity of the storm's impact and prompted the mobilization of the Army National Guard to aid in recovery efforts, highlighting the urgent need for assistance in the face of dire economic and infrastructural challenges [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "further complications",
+      "question": "What evidence is there to demonstrate how further complications, such as infrastructure damage or resource shortages, exacerbated the impact of the storm in Puerto Rico?",
+      "answer": "Hurricane Irma exacerbated Puerto Rico's existing infrastructure and resource challenges, leaving one million customers without power and 50,000 people without access to safe water [1]. The storm's impact was compounded by the territory's dire economic situation, which had already led to government furloughs and a significant migration of Puerto Ricans to the U.S. mainland [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "infrastructure vulnerabilities",
+      "question": "What evidence is there to demonstrate how infrastructure vulnerabilities in Puerto Rico contributed to the severity of the impact during the storm?",
+      "answer": "The impact of Hurricane Irma on Puerto Rico was exacerbated by infrastructure vulnerabilities, as evidenced by the fact that one million customers, representing 17 percent of the commonwealth, were left without power, and an estimated 50,000 people lacked access to safe water [1]. Additionally, the governor indicated that power problems could persist for four to six months, highlighting the fragility of the island's infrastructure [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "power outages",
+      "question": "What evidence is there regarding the role and impact of power outages during the storm in Puerto Rico, and how did these outages affect the response and recovery efforts?",
+      "answer": "During Hurricane Irma, approximately one million customers in Puerto Rico, representing 17 percent of the commonwealth, were without power, significantly impacting the region's recovery efforts [1]. The power outages were expected to persist for four to six months, complicating the response and necessitating the mobilization of the Army National Guard to aid in recovery [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "prolonged outages",
+      "question": "What evidence is there regarding the impact of prolonged outages on the recovery efforts and daily life in Puerto Rico following the storm?",
+      "answer": "Following Hurricane Irma, Puerto Rico faced significant challenges with prolonged power outages affecting recovery efforts and daily life, as one million customers, representing 17% of the commonwealth, were without power, and power issues were expected to persist for four to six months [1]. Additionally, an estimated 50,000 people lacked access to safe water, exacerbating the difficulties in daily living and recovery [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "resource mobilization",
+      "question": "What evidence is there regarding the effectiveness of resource mobilization in response to the storm in Puerto Rico, and how did it impact the speed and efficiency of the disaster relief efforts?",
+      "answer": "The effectiveness of resource mobilization in Puerto Rico following Hurricane Irma is evidenced by the Defense Department's confirmation to mobilize the Army National Guard to aid in recovery efforts, which indicates a structured response to the disaster [1]. However, the impact on speed and efficiency is challenged by the existing economic struggles and infrastructure damage, with power restoration expected to take four to six months, highlighting significant delays in relief efforts [1][2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "severe storm",
+      "question": "What evidence is available to demonstrate the impact of the severe storm on infrastructure and communities during the storm event in Puerto Rico?",
+      "answer": "Hurricane Irma severely impacted Puerto Rico's infrastructure, leaving one million customers, or 17 percent of the commonwealth, without power, and an estimated 50,000 people without access to safe water [1]. The storm also caused fatalities, including a woman who died from electrocution, a bedridden woman who died en route to a hospital, and a man who died in a car accident during poor weather conditions [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "strengthening infrastructure",
+      "question": "What evidence is there to demonstrate the impact of strengthening infrastructure on mitigating damage and enhancing recovery efforts during the storm in Puerto Rico?",
+      "answer": "The evidence from the sources does not directly address the impact of strengthening infrastructure on mitigating damage and enhancing recovery efforts during the storm in Puerto Rico. However, the mobilization of the Army National Guard to aid in recovery and the efforts of power crews to repair damaged power lines suggest that infrastructure repair and support were critical components of the recovery process [1]. Additionally, the dire economic situation and the existing infrastructure challenges were exacerbated by the storm, highlighting the need for improved infrastructure resilience [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "water access issues",
+      "question": "What evidence is there regarding the impact of water access issues on the communities affected by the storm in Puerto Rico, and how did these issues exacerbate the overall disaster response and recovery efforts?",
+      "answer": "An estimated 50,000 people in Puerto Rico were without access to safe water following Hurricane Irma, which significantly hampered disaster response and recovery efforts [1]. The lack of safe water compounded the challenges faced by the already struggling economy, highlighting the dire situation and the need for extensive recovery measures [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks While its fury has steered away from Puerto Rico’s main island, two of its smaller, less-populated islands to the northeast — Vieques and Culebra — were hit hard, according to official government assessments. A woman died in her home after “making contact with an electric wall socket,” a 79-year-old “bedridden” woman in Manatí on her way to a shelter died after she was taken to a hospital and a man died after suffering a car accident in the municipality of Canóvanas while attempting to drive during the poor weather conditions, the Puerto Rico Governor’s Office said in a statement. Puerto Rico Gov. Ricardo Rossello said at a press conference Thursday that one million customers, representing 17 percent of the commonwealth, were without power. An estimated 50,000 people living in the U.S. territory don’t have access to safe water. The governor has received a confirmation by the Defense Department to mobilize the Army National Guard come aid in the recovery. Shuttered government offices and schools are planned to reopen on Sept. 11. Rossello asked for the Puerto Rican people to dig in for a long fight, where power problems could dog the region for up to four to six months. “Now we have to get up and work harder than before,” he said. Hours later, the governor retweeted footage of men who appeared to be power crews tending to damaged power lines.",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        },
+        {
+          "content": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks The government instituted furloughs and there’s been a small diaspora of a half-million Puerto Ricans to flee to the U.S. mainland in the past decade. The storm is further raising the issues of the current economic struggles. “I think people were already aware of how bad the economy was, but this put the fear of god in them,” Ocasio said. “We are in a dire situation.”",
+          "metadata": {
+            "title": "Puerto Rico's money woes 'dire' after Hurricane Irma, as Jose lurks",
+            "url": "http://www.mycentraloregon.com/2017/09/07/puerto-ricos-money-woes-dire-after-hurricane-irma-as-jose-lurks/",
+            "pubdate": "2017-09-07T23:12:00Z",
+            "source": "mycentraloregon",
+            "guid": "mycentraloregon-471a9c8aba06bde024ff166d2b0d0465"
+          }
+        }
+      ],
+      "n_citations": 2
+    }
+  ],
+  "n_nodes": 12,
+  "total_node_citations": 19
+}

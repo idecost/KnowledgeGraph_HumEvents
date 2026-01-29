@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Graph Visualizer</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🌐 Knowledge Graph Visualizer</h1>
+            <p>Interactive visualization of disaster knowledge graphs with citations</p>
+        </header>
+
+        <div class="controls">
+            <div class="control-group">
+                <label for="eventSelect" class="dropdown-label">📋 Select Event</label>
+                <select id="eventSelect" class="event-dropdown">
+                    <option value="">Loading events...</option>
+                </select>
+            </div>
+            
+            <div class="control-group">
+                <label class="checkbox-label">
+                    <input type="checkbox" id="showNodes" checked>
+                    Show Node Details
+                </label>
+            </div>
+        </div>
+
+        <div class="event-info" id="eventInfo">
+            <h2>Event Information</h2>
+            <div class="info-grid">
+                <div class="info-item">
+                    <div class="info-label">Event ID</div>
+                    <div class="info-value" id="infoDisNo">-</div>
+                </div>
+                <div class="info-item">
+                    <div class="info-label">Disaster Type</div>
+                    <div class="info-value" id="infoType">-</div>
+                </div>
+                <div class="info-item">
+                    <div class="info-label">Country</div>
+                    <div class="info-value" id="infoCountry">-</div>
+                </div>
+                <div class="info-item">
+                    <div class="info-label">Location</div>
+                    <div class="info-value" id="infoLocation">-</div>
+                </div>
+                <div class="info-item">
+                    <div class="info-label">Date</div>
+                    <div class="info-value" id="infoDate">-</div>
+                </div>
+            </div>
+            
+            <div class="stats">
+                <div class="stat-box">
+                    <div class="stat-number" id="statNodes">0</div>
+                    <div class="stat-label">Nodes</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number" id="statEdges">0</div>
+                    <div class="stat-label">Edges</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number" id="statCitations">0</div>
+                    <div class="stat-label">Total Citations</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number" id="statArticles">0</div>
+                    <div class="stat-label">Articles</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="legend" id="legend" style="display: none;">
+            <h3>Legend</h3>
+            <div class="legend-section">
+                <h4>Edge Colors (Link Citations)</h4>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #2ecc71;"></div>
+                    <span>3+ citations (well-supported)</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #f39c12;"></div>
+                    <span>1-2 citations (moderately supported)</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #e74c3c;"></div>
+                    <span>No citations (unsupported)</span>
+                </div>
+            </div>
+            <div class="legend-section">
+                <h4>Node Colors (Node Citations)</h4>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #3498db; border-radius: 50%;"></div>
+                    <span>3+ citations (well-documented)</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #9b59b6; border-radius: 50%;"></div>
+                    <span>1-2 citations (some documentation)</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #95a5a6; border-radius: 50%;"></div>
+                    <span>No citations (no details)</span>
+                </div>
+            </div>
+            <p style="margin-top: 15px; color: #7f8c8d; font-size: 0.9em;">
+                💡 Click on edges to see relationship details<br>
+                💡 Click on nodes to see node details<br>
+                🖱️ Click and drag nodes to rearrange the graph
+            </p>
+        </div>
+
+        <div class="graph-container">
+            <div id="network"></div>
+            <div class="no-data" id="noData">
+                <div class="no-data-icon">📊</div>
+                <div>Select an event to visualize the knowledge graph</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Edge Details -->
+    <div id="edgeModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modalRelation">Relationship Details</h3>
+                <span class="close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="context-section">
+                    <div class="context-label">Question:</div>
+                    <div class="context-content" id="modalQuestion"></div>
+                </div>
+                <div class="context-section">
+                    <div class="context-label">Answer:</div>
+                    <div class="answer-content" id="modalAnswer"></div>
+                </div>
+                <div class="context-section" id="citationsSection" style="display: none;">
+                    <div class="context-label">Citations (<span id="citationCount">0</span>):</div>
+                    <div id="modalCitations"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Node Details -->
+    <div id="nodeModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modalNodeTitle">Node Details</h3>
+                <span class="close node-close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="context-section">
+                    <div class="context-label">Question:</div>
+                    <div class="context-content" id="modalNodeQuestion"></div>
+                </div>
+                <div class="context-section">
+                    <div class="context-label">Answer:</div>
+                    <div class="answer-content" id="modalNodeAnswer"></div>
+                </div>
+                <div class="context-section" id="nodeCitationsSection" style="display: none;">
+                    <div class="context-label">Citations (<span id="nodeCitationCount">0</span>):</div>
+                    <div id="modalNodeCitations"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Citation Details -->
+    <div id="citationModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">Citation Details</h3>
+                <span class="close citation-close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="context-section">
+                    <div class="context-label">Context:</div>
+                    <div class="context-content" id="citationContext"></div>
+                </div>
+                <div class="context-section">
+                    <div class="context-label">Title:</div>
+                    <div id="citationTitle"></div>
+                </div>
+                <div class="context-section context-url">
+                    <div class="context-label">Source URL:</div>
+                    <div><a id="citationUrl" href="#" target="_blank"></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="kg-visualizer.js"></script>
+</body>
+</html>

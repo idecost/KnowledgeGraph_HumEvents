@@ -1,0 +1,1451 @@
+{
+  "DisNo": "2017-0383-DOM",
+  "disaster_type": "Storm",
+  "country": "Dominican Republic",
+  "location": "La Altagracia, El Seibo, Hato Mayor, Samaná, Espaillat, María Trinidad Sánchez, Puerto Plata, Santiago, Sánchez Ramírez, Monseñor Nouel, La Romana, Montecristi, Duarte, San Juan, Valverde, Dajabón, Santiago Rodríguez, San Pedro de Macorís, Hermanas Mirabal (Salcedo), La Vega",
+  "start_dt": "2017-09-20",
+  "storyline": "**Factsheet on the Storm Event in Dominican Republic**\n\n- **Key information:** A severe storm event impacted multiple regions in the Dominican Republic, including La Altagracia, El Seibo, Hato Mayor, and others, in September 2017.\n\n- **Severity:** High\n\n- **Key drivers:** The main cause of the disaster was Hurricane Maria, which brought destructive winds, heavy rainfall, and storm surges to the northeastern Dominican Republic.\n\n- **Main impacts, exposure, and vulnerability:** \n  - Economic damage: Unknown\n  - People affected: Unknown\n  - Fatalities: Unknown\n  - Effects on communities and infrastructure: Significant flooding occurred, particularly in Montecristi, and the Yuna River overflowed. Power services were disrupted but later restored in Samaná. Traffic was affected but restored on the Samana-SD highway.\n\n- **Likelihood of multi-hazard risks:** High, given the potential for subsequent flooding and landslides due to saturated grounds and ongoing weather disturbances.\n\n- **Best practices for managing this risk:** \n  - Implementing early warning systems and evacuation plans.\n  - Strengthening infrastructure to withstand severe weather.\n  - Conducting community education and preparedness programs.\n\n- **Recommendations and supportive measures for recovery:** \n  - Providing immediate humanitarian aid and support to affected communities.\n  - Rebuilding infrastructure with improved resilience to future storms.\n  - Offering financial assistance and resources for economic recovery and rebuilding efforts.",
+  "knowledge_graph_original": "```json\n[\n    [\"Hurricane Maria\", \"causes\", \"destructive winds\"],\n    [\"Hurricane Maria\", \"causes\", \"heavy rainfall\"],\n    [\"Hurricane Maria\", \"causes\", \"storm surges\"],\n    [\"heavy rainfall\", \"causes\", \"flooding\"],\n    [\"storm surges\", \"causes\", \"flooding\"],\n    [\"flooding\", \"causes\", \"infrastructure damage\"],\n    [\"flooding\", \"causes\", \"power disruption\"],\n    [\"flooding\", \"causes\", \"traffic disruption\"],\n    [\"saturated grounds\", \"causes\", \"landslides\"],\n    [\"early warning\", \"prevents\", \"casualties\"],\n    [\"strengthened infrastructure\", \"prevents\", \"infrastructure damage\"]\n]\n```",
+  "knowledge_graph_with_citations": [
+    {
+      "source": "Hurricane Maria",
+      "relation": "causes",
+      "target": "destructive winds",
+      "question": "What specific evidence from news reports demonstrates how Hurricane Maria's winds caused destruction in the Dominican Republic during the storm event?",
+      "answer": "Hurricane Maria began to impact the northeastern Dominican Republic with its destructive winds, as it gained strength after leaving Puerto Rico in a calamitous state [1]. This indicates that the winds were strong enough to cause significant damage, as they were part of the storm's overall destructive force, which included flooding rain and storm surges [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "Hurricane Maria",
+      "relation": "causes",
+      "target": "heavy rainfall",
+      "question": "What specific meteorological conditions during Hurricane Maria led to the heavy rainfall experienced in the Dominican Republic, and how did these conditions contribute to the severity of the storm's impact in the region?",
+      "answer": "During Hurricane Maria, the Dominican Republic experienced heavy rainfall due to the storm's destructive winds, flooding rain, and storm surge as it gained strength after impacting Puerto Rico [1]. These meteorological conditions contributed to the severity of the storm's impact in the region by causing significant flooding, such as the overflow of the Yuna River, which disrupted traffic on the Samana-Santo Domingo highway [2]. The combination of strong winds and heavy rainfall led to widespread flooding in areas like Montecristi, exacerbating the storm's impact on the affected communities [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "source": "Hurricane Maria",
+      "relation": "causes",
+      "target": "storm surges",
+      "question": "What specific meteorological conditions during Hurricane Maria led to the formation of storm surges in the Dominican Republic, and what evidence from news reports supports this causal relationship?",
+      "answer": "During Hurricane Maria, the meteorological conditions that led to the formation of storm surges in the Dominican Republic included the spread of destructive winds and flooding rain as the hurricane gained strength after impacting Puerto Rico. These conditions are indicative of the intense atmospheric pressure changes and wind patterns associated with hurricanes, which can drive water onshore, creating storm surges. The news report from Prensa Latina specifically mentions that Maria began to spread its destructive winds, flooding rain, and storm surge into the northeastern Dominican Republic, highlighting the direct impact of these meteorological conditions on the formation of storm surges [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "heavy rainfall",
+      "relation": "causes",
+      "target": "flooding",
+      "question": "What specific meteorological data or observations from the storm in the Dominican Republic provide evidence that the heavy rainfall directly led to the flooding in the affected areas?",
+      "answer": "The heavy rainfall from the storm in the Dominican Republic directly led to flooding in several areas. Specifically, the Yuna River overflowed, which is a direct consequence of the heavy rainfall, causing disruptions such as the restoration of traffic on the Samana-Santo Domingo highway due to the flooding [1]. Additionally, flooding was reported in Montecristi, further indicating that the heavy rainfall had a significant impact on the region [1]. These observations provide clear evidence that the heavy rainfall from the storm directly contributed to the flooding in the affected areas.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "storm surges",
+      "relation": "causes",
+      "target": "flooding",
+      "question": "What specific evidence from news reports indicates that storm surges during the storm in the Dominican Republic directly led to flooding in affected areas?",
+      "answer": "The news reports indicate that storm surges during the storm in the Dominican Republic directly led to flooding in affected areas. Specifically, it is reported that Maria began to spread its destructive winds, flooding rain, and storm surge into the northeastern Dominican Republic, which implies that these elements contributed to the flooding experienced in the region [1]. Additionally, the Yuna River overflowed, which is a direct consequence of the excessive rainfall and storm surge, leading to flooding in the affected areas [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "source": "flooding",
+      "relation": "causes",
+      "target": "infrastructure damage",
+      "question": "What specific instances of infrastructure damage were reported as a direct result of flooding during the storm in the Dominican Republic, and what evidence is there to support these claims in news articles?",
+      "answer": "Specific instances of infrastructure damage in the Dominican Republic due to flooding during the storm include the overflow of the Yuna River, which affected traffic on the Samana-Santo Domingo highway [1]. Additionally, there was flooding reported in Montecristi [1]. These instances are supported by reports indicating the impact of the storm's flooding on transportation infrastructure and specific areas within the country.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "flooding",
+      "relation": "causes",
+      "target": "power disruption",
+      "question": "What specific instances of flooding during the storm in the Dominican Republic led to power disruptions, and how did these instances impact the electrical infrastructure?",
+      "answer": "During the storm in the Dominican Republic, flooding led to power disruptions, particularly in the region of Samaná. The power service, provided by Luz y Fuerza, was disrupted but later restored in Samaná following the flooding [1]. The flooding in Montecristi was also noted, although specific impacts on the electrical infrastructure in that area were not detailed in the sources [1]. The flooding and subsequent power disruptions highlight the vulnerability of the electrical infrastructure to severe weather events, as the restoration efforts in Samaná indicate a direct impact on the power service due to the storm's effects [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "flooding",
+      "relation": "causes",
+      "target": "traffic disruption",
+      "question": "What specific instances of flooding during the storm in the Dominican Republic led to traffic disruption, and what evidence is there in news reports detailing how these instances impacted transportation infrastructure?",
+      "answer": "During the storm in the Dominican Republic, the Yuna River overflowed, which led to traffic disruptions. This flooding specifically impacted the transportation infrastructure by affecting the Samana-Santo Domingo highway, where traffic was eventually restored after the overflow [1]. Additionally, there was flooding reported in Montecristi, although specific impacts on transportation infrastructure in this area were not detailed in the provided sources [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "saturated grounds",
+      "relation": "causes",
+      "target": "landslides",
+      "question": "What specific evidence from news reports during the storm in the Dominican Republic indicates that saturated grounds directly led to landslides in affected areas?",
+      "answer": "The provided sources do not contain specific evidence or reports directly linking saturated grounds to landslides in the Dominican Republic during the storm. The sources mention the impact of Hurricane Maria, such as destructive winds, flooding rain, and storm surges affecting the northeastern Dominican Republic [1]. Additionally, there are reports of flooding in various areas, such as Montecristi and the overflow of the Yuna River [2]. However, there is no explicit mention of landslides caused by saturated grounds in the available sources.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "source": "early warning",
+      "relation": "prevents",
+      "target": "casualties",
+      "question": "What specific early warning measures were implemented in the Dominican Republic during the storm, and how did these measures contribute to reducing casualties?",
+      "answer": "During the storm, the Dominican Republic implemented specific early warning measures by issuing alerts to various regions. A yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, and El Seibo. Additionally, a green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel, and Azua [1].\n\nThese alerts likely contributed to reducing casualties by informing residents of the potential dangers and encouraging them to take necessary precautions, such as evacuating vulnerable areas or securing their homes against the storm's impact. By categorizing the alerts into yellow and green, authorities could prioritize areas based on the level of risk, allowing for more targeted and effective responses to the storm's threats.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "strengthened infrastructure",
+      "relation": "prevents",
+      "target": "infrastructure damage",
+      "question": "What specific examples from news reports demonstrate how strengthened infrastructure in the Dominican Republic effectively prevented infrastructure damage during the storm event?",
+      "answer": "The provided sources do not contain specific examples or details about how strengthened infrastructure in the Dominican Republic effectively prevented infrastructure damage during the storm event. The sources primarily discuss the impact of Hurricane Maria on the Dominican Republic, such as the spread of destructive winds and flooding rains [1], and the issuance of alerts for various regions [2]. However, they do not provide information on infrastructure resilience or specific measures that prevented damage.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 2
+    }
+  ],
+  "n_links": 11,
+  "n_articles": 3,
+  "total_citations": 15,
+  "nodes_with_citations": [
+    {
+      "node": "Hurricane Maria",
+      "question": "What evidence is available regarding the impact of Hurricane Maria on the infrastructure and communities in the Dominican Republic during the storm event?",
+      "answer": "Hurricane Maria caused significant impacts on the infrastructure and communities in the Dominican Republic, with destructive winds, flooding rain, and storm surges affecting the northeastern region as the storm gained strength after leaving Puerto Rico [1]. The Yuna River overflowed, and flooding was reported in Montecristi, while power services were restored in Samaná following disruptions [2]. Additionally, various regions were placed under yellow and green alerts due to the storm's threat [3].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "source_id": 3,
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 3
+    },
+    {
+      "node": "casualties",
+      "question": "What evidence is available regarding the number and impact of casualties resulting from the storm in the Dominican Republic, and how did these casualties affect the overall response and recovery efforts?",
+      "answer": "The sources provided do not contain specific information regarding the number and impact of casualties resulting from the storm in the Dominican Republic. However, they mention the destructive winds, flooding rain, and storm surge affecting the northeastern Dominican Republic as Hurricane Maria gained strength after impacting Puerto Rico [1]. Additionally, alerts were issued for various regions, indicating a proactive response to potential impacts [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "destructive winds",
+      "question": "What evidence is there to demonstrate the role and impact of destructive winds during the storm in the Dominican Republic, particularly in terms of structural damage and disruption to infrastructure?",
+      "answer": "The destructive winds of Hurricane Maria began impacting the northeastern Dominican Republic, contributing to flooding and storm surges as the storm gained strength after affecting Puerto Rico [1]. The storm caused significant disruption, including the overflow of the Yuna River and flooding in Montecristi, which affected traffic and infrastructure [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "early warning",
+      "question": "What evidence is there to demonstrate the role and impact of early warning systems in mitigating the effects of the storm in the Dominican Republic?",
+      "answer": "The issuance of yellow and green alerts for various regions in the Dominican Republic, such as Santiago and Puerto Plata, demonstrates the role of early warning systems in preparing for the storm's impact [1]. These alerts likely helped in mitigating the effects by informing residents and authorities to take precautionary measures against the destructive winds and flooding rains brought by Maria [2][1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "flooding",
+      "question": "What evidence is available regarding the role and impact of flooding during the storm in the Dominican Republic, particularly in terms of infrastructure damage and displacement of residents?",
+      "answer": "Flooding during the storm in the Dominican Republic led to significant infrastructure challenges, including the overflow of the Yuna River and the temporary disruption of traffic on the Samana-Santo Domingo highway [1]. Additionally, areas such as Montecristi experienced flooding, which likely contributed to the displacement of residents and necessitated the restoration of power services in affected regions like Samana [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "heavy rainfall",
+      "question": "What evidence is there to demonstrate the role or impact of heavy rainfall during the storm in the Dominican Republic, particularly in terms of flooding, infrastructure damage, and displacement of communities?",
+      "answer": "Heavy rainfall from the storm led to significant flooding in the Dominican Republic, particularly affecting areas like Montecristi and causing the Yuna River to overflow, which disrupted traffic on the Samana-Santo Domingo highway [1][2]. The flooding resulted in infrastructure damage and necessitated the restoration of power services in Samana [2]. Additionally, alerts were issued for multiple provinces, indicating widespread concern for potential displacement and further impact on communities [3].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "source_id": 3,
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 3
+    },
+    {
+      "node": "infrastructure damage",
+      "question": "What evidence is there regarding the extent and impact of infrastructure damage caused by the storm in the Dominican Republic, and how did this damage affect the overall recovery efforts and daily life in the affected areas?",
+      "answer": "The storm caused significant infrastructure damage in the Dominican Republic, including the overflowing of the Yuna River and flooding in Montecristi, which disrupted traffic on the Samana-Santo Domingo highway [1]. Power service was temporarily disrupted but later restored in Samana, indicating efforts to recover essential services [1]. The issuance of yellow and green alerts across multiple provinces highlights the widespread impact and the need for coordinated recovery efforts [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "landslides",
+      "question": "What evidence is available regarding the role and impact of landslides during the storm in the Dominican Republic, and how did these landslides contribute to the overall damage and disruption caused by the disaster?",
+      "answer": "The sources provided do not specifically mention landslides or their impact during the storm in the Dominican Republic. However, the storm caused significant flooding, particularly with the Yuna River overflowing, which contributed to the overall damage and disruption in the region [1][2]. Additionally, alerts were issued for several provinces, indicating widespread concern for potential natural hazards, including landslides, due to the storm's impact [3].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "source_id": 3,
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 3
+    },
+    {
+      "node": "power disruption",
+      "question": "What evidence is there regarding the role or impact of power disruption during the storm in the Dominican Republic, and how did it affect emergency response and recovery efforts?",
+      "answer": "Power disruption during the storm in the Dominican Republic affected areas such as Samaná, where power service was restored by Luz y Fuerza after the storm [1]. This restoration was crucial for emergency response and recovery efforts, as it enabled better coordination and support for affected communities [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "saturated grounds",
+      "question": "What evidence is there to demonstrate the role or impact of saturated grounds in exacerbating the effects of the storm in the Dominican Republic?",
+      "answer": "The impact of saturated grounds in exacerbating the effects of the storm in the Dominican Republic is evident through the flooding reported in various areas, such as Montecristi, following the storm's passage [1]. Additionally, the overflow of the Yuna River indicates that the already saturated grounds could not absorb the additional rainfall, leading to further flooding and disruption [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "storm surges",
+      "question": "What evidence is there regarding the role and impact of storm surges during the recent storm in the Dominican Republic, and how did these surges contribute to the overall damage and flooding experienced in affected areas?",
+      "answer": "Storm surges from Hurricane Maria contributed to the overall damage and flooding in the northeastern Dominican Republic, as the storm spread its destructive winds and flooding rain across the region [1]. The Yuna River overflowed, exacerbating the flooding situation and impacting traffic on the Samana-Santo Domingo highway [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "strengthened infrastructure",
+      "question": "What evidence is there to demonstrate the role or impact of strengthened infrastructure in mitigating the effects of the storm in the Dominican Republic?",
+      "answer": "The sources do not provide specific evidence regarding the role or impact of strengthened infrastructure in mitigating the effects of the storm in the Dominican Republic. They primarily focus on the storm's immediate impacts, such as flooding and power restoration efforts, without detailing how infrastructure improvements may have influenced these outcomes [1][2][3].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "source_id": 3,
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 3
+    },
+    {
+      "node": "traffic disruption",
+      "question": "What evidence is there regarding the extent and impact of traffic disruption caused by the storm in the Dominican Republic, and how did it affect emergency response and recovery efforts?",
+      "answer": "The storm caused the Yuna River to overflow, which led to traffic disruptions, including the temporary closure of the Samana-Santo Domingo highway, though traffic was eventually restored [1]. These disruptions likely complicated emergency response and recovery efforts, as they would have hindered the movement of emergency services and supplies to affected areas.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "12:07 It's Dominican Republic's Time to Face Maria's Wrath 21 de septiembre de 2017, 00:07 Santo Domingo, Sep 21 (Prensa Latina) Maria is now beginning to spread its destructive winds, flooding rain and storm-surge into the northeastern Dominican Republic as it is gaining strength after leaving Puerto Rico in a calamitous state.",
+          "metadata": {
+            "title": "12:07 It's Dominican Republic's Time to Face Maria's Wrath",
+            "url": "http://www.plenglish.com/index.php?o=rn&id=18409&SEO=its-dominican-republics-time-to-face-marias-wrath",
+            "pubdate": "2017-09-21T04:40:00Z",
+            "source": "plenglish",
+            "guid": "plenglish-fb5f0faff18bc9cce276d8e24361c05e"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 DR meets with China foreign minister in New York President Medina tours areas affected in the east and northeast Yuna River overflows, traffic restored on Samana-SD highway Flooding in Montecristi Luis Carvajal and Domingo Abreu on flooding waters Luz y Fuerza power service restored in Samana New Jersey people donate to improve fire service in Boca Chica Sahara Dust cloud headed for Dominican Republic Merengue dancing at Barceló Santo Domingo Tribute to Frank Sinatra Pianist Jie Chen and the National Symphony Orchestra concert The Addams Family at the Studio Theater of Acrópolis Center DR meets with China foreign minister in New York The Ministry of Foreign Relations (Mirex) reported that Foreign Minister Miguel Vargas attended a meeting with Latin American and Caribbean countries organized by the mission of People’s Republic of China officers during the 72nd United Nations General Assembly in New York City. The meeting was chaired by China’s foreign minister Wang Yi and Dominican foreign minister Miguel Vargas Maldonado. The DR participated as part of the Quartet of Foreign Ministers of the Community of Latin American and Caribbean States (CELAC), of which the Dominican Republic is a member. The CELAC quartet includes the foreign ministers of Guyana, Ecuador, El Salvador and Dominican Republic. The CELAC quartet also met on Friday, 22 September 2017, with South Korea foreign minister Kang Kyung-wha",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        },
+        {
+          "content": "Monday, 25 September 2017 Yellow alert was issued for Santiago, Valverde, Espaillat (Moc), María Trinidad Sánchez (Nagua), Samaná, Sánchez Ramírez (Cotuí), Monte Plata, Hato Mayor, San Pedro de Macorís, El Seibo. Green alert was issued for Puerto Plata, La Altagracia, Hermanas Mirabal, San Juan de la Maguana, Dajabón, Santiago Rodríguez, Santo Domingo province, National District, La Vega, Monseñor Nouel and Azua.",
+          "metadata": {
+            "title": "Monday, 25 September 2017",
+            "url": "http://dr1.com/forums/showthread.php/163491-Monday,%2025%20September%202017",
+            "pubdate": "2017-09-26T03:41:00Z",
+            "source": "dr1",
+            "guid": "dr1-7578d469e032c960b846f49896f8c36f"
+          }
+        }
+      ],
+      "n_citations": 1
+    }
+  ],
+  "n_nodes": 13,
+  "total_node_citations": 26
+}

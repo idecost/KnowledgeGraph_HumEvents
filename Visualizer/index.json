@@ -1,0 +1,67 @@
+[
+  {
+    "file": "2020-0474-HND_full.json",
+    "DisNo": "2020-0474-HND",
+    "disaster_type": "Storm",
+    "country": "Honduras",
+    "location": "La Ceiba, El Progresso, Santa Barbara, Gualala, Sulaco, San Manuel, Lempira",
+    "start_dt": "2020-11-03",
+    "n_nodes": 13,
+    "n_links": 12,
+    "total_citations": 28,
+    "total_node_citations": 38,
+    "n_articles": 4
+  },
+  {
+    "file": "2017-0383-DOM_full.json",
+    "DisNo": "2017-0383-DOM",
+    "disaster_type": "Storm",
+    "country": "Dominican Republic",
+    "location": "La Altagracia, El Seibo, Hato Mayor, Samaná, Espaillat, María Trinidad Sánchez, Puerto Plata, Santiago, Sánchez Ramírez, Monseñor Nouel, La Romana, Montecristi, Duarte, San Juan, Valverde, Dajabón, Santiago Rodríguez, San Pedro de Macorís, Hermanas Mirabal (Salcedo), La Vega",
+    "start_dt": "2017-09-20",
+    "n_nodes": 13,
+    "n_links": 11,
+    "total_citations": 15,
+    "total_node_citations": 26,
+    "n_articles": 3
+  },
+  {
+    "file": "2017-0381-PRI_full.json",
+    "DisNo": "2017-0381-PRI",
+    "disaster_type": "Storm",
+    "country": "Puerto Rico",
+    "location": "North. Culebra and Vieques Islands",
+    "start_dt": "2017-09-06",
+    "n_nodes": 12,
+    "n_links": 10,
+    "total_citations": 13,
+    "total_node_citations": 19,
+    "n_articles": 2
+  },
+  {
+    "file": "2016-0355-USA_full.json",
+    "DisNo": "2016-0355-USA",
+    "disaster_type": "Storm",
+    "country": "United States of America",
+    "location": "Florida, Georgia, South Carolina, North Carolina, Virginia provinces",
+    "start_dt": "2016-10-08",
+    "n_nodes": 14,
+    "n_links": 13,
+    "total_citations": 54,
+    "total_node_citations": 59,
+    "n_articles": 32
+  },
+  {
+    "file": "2016-0355-LCA_full.json",
+    "DisNo": "2016-0355-LCA",
+    "disaster_type": "Storm",
+    "country": "Saint Lucia",
+    "location": "Gros-Islet (Region Number 1 province), Castries, Bexon, Marc, (Region Number 8 province), Dennery (Region Number 3 province), Laborie, Vieux- Fort (Region Number 5 province), Micoud (Region Number 4 province), Choiseul (Region Number 6 province)",
+    "start_dt": "2016-09-28",
+    "n_nodes": 19,
+    "n_links": 14,
+    "total_citations": 36,
+    "total_node_citations": 49,
+    "n_articles": 7
+  }
+]

@@ -125,6 +125,291 @@ body {
     font-style: italic;
 }
 
+/* ============================================================================
+   CUSTOM QUERY PANEL - NEW STYLES
+   ============================================================================ */
+
+.query-toggle-btn {
+    padding: 12px 24px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+}
+
+.query-toggle-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+}
+
+.query-panel {
+    background: white;
+    border-bottom: 1px solid #e0e0e0;
+    overflow: hidden;
+    animation: slideDown 0.3s ease-out;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        max-height: 0;
+    }
+    to {
+        opacity: 1;
+        max-height: 1000px;
+    }
+}
+
+.query-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.query-header h3 {
+    margin: 0;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.query-close {
+    font-size: 2em;
+    cursor: pointer;
+    line-height: 1;
+    transition: transform 0.2s;
+    font-weight: 300;
+}
+
+.query-close:hover {
+    transform: rotate(90deg);
+}
+
+.query-body {
+    padding: 30px 40px;
+    background: #f8f9fa;
+}
+
+.api-key-section {
+    margin-bottom: 25px;
+}
+
+.api-key-section label {
+    display: block;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 8px;
+    font-size: 1em;
+}
+
+.api-key-input-group {
+    display: flex;
+    gap: 10px;
+}
+
+.api-key-input {
+    flex: 1;
+    padding: 12px 15px;
+    border: 2px solid #667eea;
+    border-radius: 8px;
+    font-size: 1em;
+    font-family: monospace;
+    transition: all 0.3s;
+    background: white;
+}
+
+.api-key-input:focus {
+    outline: none;
+    border-color: #764ba2;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.toggle-key-btn {
+    padding: 12px 20px;
+    background: white;
+    border: 2px solid #667eea;
+    border-radius: 8px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.toggle-key-btn:hover {
+    background: #f8f9fa;
+    border-color: #764ba2;
+    transform: scale(1.05);
+}
+
+.api-key-hint {
+    display: block;
+    margin-top: 8px;
+    color: #7f8c8d;
+    font-size: 0.9em;
+}
+
+.api-key-hint a {
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.api-key-hint a:hover {
+    text-decoration: underline;
+}
+
+.query-input-section {
+    margin-bottom: 25px;
+}
+
+.query-input-section label {
+    display: block;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 8px;
+    font-size: 1em;
+}
+
+.query-textarea {
+    width: 100%;
+    padding: 12px 15px;
+    border: 2px solid #667eea;
+    border-radius: 8px;
+    font-size: 1em;
+    font-family: inherit;
+    resize: vertical;
+    transition: all 0.3s;
+    background: white;
+}
+
+.query-textarea:focus {
+    outline: none;
+    border-color: #764ba2;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.query-actions {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.submit-query-btn {
+    padding: 12px 30px;
+    background: linear-gradient(135deg, #2ecc71 0%, #27ae60 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+    box-shadow: 0 4px 15px rgba(46, 204, 113, 0.4);
+}
+
+.submit-query-btn:hover:not(:disabled) {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(46, 204, 113, 0.6);
+}
+
+.submit-query-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.btn-loading {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.spinner {
+    width: 16px;
+    height: 16px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-top-color: white;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.query-status {
+    flex: 1;
+    font-size: 0.95em;
+    font-weight: 600;
+}
+
+.query-results {
+    margin-top: 25px;
+    padding-top: 25px;
+    border-top: 2px solid #e0e0e0;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.query-results h4 {
+    color: #2c3e50;
+    margin-bottom: 15px;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+.answer-box {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 4px solid #667eea;
+    margin-bottom: 20px;
+    line-height: 1.8;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.retrieved-docs-section {
+    margin-top: 20px;
+}
+
+.sources-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.sources-list::-webkit-scrollbar {
+    width: 8px;
+}
+
+.sources-list::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.sources-list::-webkit-scrollbar-thumb {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 10px;
+}
+
+.sources-list::-webkit-scrollbar-thumb:hover {
+    background: #764ba2;
+}
+
+/* ============================================================================
+   END CUSTOM QUERY PANEL STYLES
+   ============================================================================ */
+
 /* Event Info */
 .event-info {
     padding: 40px;
@@ -327,7 +612,9 @@ body {
     margin: 0;
 }
 
-.close {
+.close,
+.node-close,
+.citation-close {
     color: white;
     font-size: 32px;
     font-weight: 300;
@@ -336,7 +623,9 @@ body {
     line-height: 1;
 }
 
-.close:hover {
+.close:hover,
+.node-close:hover,
+.citation-close:hover {
     transform: scale(1.2);
 }
 
@@ -459,6 +748,10 @@ body {
         align-items: stretch;
     }
     
+    .control-group {
+        width: 100%;
+    }
+    
     .event-dropdown {
         min-width: 100%;
     }
@@ -478,5 +771,31 @@ body {
     .modal-content {
         width: 95%;
         margin: 10% auto;
+    }
+    
+    /* Query Panel Responsive */
+    .query-body {
+        padding: 20px;
+    }
+    
+    .api-key-input-group {
+        flex-direction: column;
+    }
+    
+    .toggle-key-btn {
+        width: 100%;
+    }
+    
+    .query-actions {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .submit-query-btn {
+        width: 100%;
+    }
+    
+    .query-status {
+        text-align: center;
     }
 }

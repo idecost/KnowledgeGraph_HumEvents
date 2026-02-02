@@ -29,6 +29,71 @@
                     Show Node Details
                 </label>
             </div>
+
+            <div class="control-group">
+                <button id="toggleQueryPanel" class="query-toggle-btn">
+                    🔍 Custom Query
+                </button>
+            </div>
+        </div>
+
+        <!-- Custom Query Panel -->
+        <div class="query-panel" id="queryPanel" style="display: none;">
+            <div class="query-header">
+                <h3>🤖 Ask a Custom Question</h3>
+                <span class="query-close" id="closeQueryPanel">&times;</span>
+            </div>
+            
+            <div class="query-body">
+                <div class="api-key-section">
+                    <label for="apiKey">OpenAI API Key (stored in browser session only):</label>
+                    <div class="api-key-input-group">
+                        <input 
+                            type="password" 
+                            id="apiKey" 
+                            placeholder="sk-..." 
+                            class="api-key-input"
+                        />
+                        <button id="toggleApiKey" class="toggle-key-btn" title="Show/Hide API Key">
+                            👁️
+                        </button>
+                    </div>
+                    <small class="api-key-hint">
+                        Your API key is never stored or sent anywhere except directly to OpenAI. 
+                        <a href="https://platform.openai.com/api-keys" target="_blank">Get your API key here</a>
+                    </small>
+                </div>
+
+                <div class="query-input-section">
+                    <label for="userQuery">Your Question:</label>
+                    <textarea 
+                        id="userQuery" 
+                        rows="3" 
+                        placeholder="e.g., What were the main causes of this disaster?"
+                        class="query-textarea"
+                    ></textarea>
+                </div>
+
+                <div class="query-actions">
+                    <button id="submitQuery" class="submit-query-btn">
+                        <span class="btn-text">Ask Question</span>
+                        <span class="btn-loading" style="display: none;">
+                            <span class="spinner"></span> Processing...
+                        </span>
+                    </button>
+                    <div class="query-status" id="queryStatus"></div>
+                </div>
+
+                <div class="query-results" id="queryResults" style="display: none;">
+                    <h4>Answer:</h4>
+                    <div class="answer-box" id="answerBox"></div>
+                    
+                    <div class="retrieved-docs-section" id="retrievedDocsSection" style="display: none;">
+                        <h4>Sources (<span id="sourceCount">0</span>):</h4>
+                        <div id="retrievedDocs" class="sources-list"></div>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <div class="event-info" id="eventInfo">
@@ -196,6 +261,7 @@
         </div>
     </div>
 
-    <script src="kg-visualizer.js"></script>
+    <!-- Load transformers.js from CDN -->
+    <script type="module" src="kg-visualizer.js"></script>
 </body>
 </html>

@@ -26,6 +26,58 @@
     "n_articles": 3
   },
   {
+    "file": "2017-0383-VIR_full.json",
+    "DisNo": "2017-0383-VIR",
+    "disaster_type": "Storm",
+    "country": "United States Virgin Islands",
+    "location": "St Thomas, St John, St Croix, Water Island (St Thomas), Estate Frenchman's Bay",
+    "start_dt": "2017-09-20",
+    "n_nodes": 13,
+    "n_links": 10,
+    "total_citations": 16,
+    "total_node_citations": 25,
+    "n_articles": 3
+  },
+  {
+    "file": "2017-0381-USA_full.json",
+    "DisNo": "2017-0381-USA",
+    "disaster_type": "Storm",
+    "country": "United States of America",
+    "location": "Keys islands, Monroe, South Florida, Jacksonville (Duval), Marco Island, Naples (Collier), Fort Lauderdale (Broward), Lakeland (Polk), Orlando (Orange), Clay (Florida), Savannah, Tybee Island (Chatham), Brunswick, St. Simons Island (Glynn), McIntosh, Camden (Georgia), Charleston, Folly Beach, the Isle of Palms, Sullivan’s Island (Charleston) Hilton Head, Beaufort, Edisto Beach (Colleton) (South Carolina)",
+    "start_dt": "2017-09-10",
+    "n_nodes": 16,
+    "n_links": 16,
+    "total_citations": 47,
+    "total_node_citations": 49,
+    "n_articles": 34
+  },
+  {
+    "file": "2017-0381-HTI_full.json",
+    "DisNo": "2017-0381-HTI",
+    "disaster_type": "Storm",
+    "country": "Haiti",
+    "location": "Caracol (Trou du Nord), Feroer, Malfety (Fort Liberte), Ouanaminthe, Cap Haitien; Port de Paix, St. Louis de Nord, Anse-a-Foleur, Jean Rabel, Baie-de-Henne, Detipotpe, Ile de la Tortue, Bassin Blue, Chansolme, Mole St. Nicolas which were supported",
+    "start_dt": "2017-09-07",
+    "n_nodes": 18,
+    "n_links": 15,
+    "total_citations": 35,
+    "total_node_citations": 41,
+    "n_articles": 3
+  },
+  {
+    "file": "2017-0381-ATG_full.json",
+    "DisNo": "2017-0381-ATG",
+    "disaster_type": "Storm",
+    "country": "Antigua and Barbuda",
+    "location": "Barbuda, St John and St George districts (Crosbies, Fort Road, Clare Hall, Grays Farm, Pigotts) (Antigua)",
+    "start_dt": "2017-09-06",
+    "n_nodes": 12,
+    "n_links": 11,
+    "total_citations": 27,
+    "total_node_citations": 31,
+    "n_articles": 5
+  },
+  {
     "file": "2017-0381-PRI_full.json",
     "DisNo": "2017-0381-PRI",
     "disaster_type": "Storm",
@@ -50,6 +102,19 @@
     "total_citations": 54,
     "total_node_citations": 59,
     "n_articles": 32
+  },
+  {
+    "file": "2016-0355-HTI_full.json",
+    "DisNo": "2016-0355-HTI",
+    "disaster_type": "Storm",
+    "country": "Haiti",
+    "location": "Grand’Anse (Jérémie), South (Les Cayes, Les Anglais and Tiburon municipalities), Nippes, South East, West (Leogane, Port-au-Prince) and North West departments, Les Cayes",
+    "start_dt": "2016-09-28",
+    "n_nodes": 15,
+    "n_links": 17,
+    "total_citations": 48,
+    "total_node_citations": 47,
+    "n_articles": 9
   },
   {
     "file": "2016-0355-LCA_full.json",

@@ -1,0 +1,1409 @@
+{
+  "DisNo": "2017-0383-VIR",
+  "disaster_type": "Storm",
+  "country": "United States Virgin Islands",
+  "location": "St Thomas, St John, St Croix, Water Island (St Thomas), Estate Frenchman's Bay",
+  "start_dt": "2017-09-20",
+  "storyline": "**Factsheet: Storm Event in United States Virgin Islands**\n\n- **Key information:** A severe storm event impacted the United States Virgin Islands, specifically St. Thomas, St. John, St. Croix, and Water Island, in September 2017.\n\n- **Severity:** High\n\n- **Key drivers:** The disaster was primarily caused by Hurricane Maria, which followed closely after Hurricane Irma, leading to compounded damage.\n\n- **Main impacts, exposure, and vulnerability:** \n  - Economic damage: Widespread damage was reported, particularly on St. Croix, affecting infrastructure and housing.\n  - People affected: Residents of heavily damaged areas, such as the Tutu Hi-Rise housing community, were evacuated. Shelters were established, but some reached capacity quickly.\n  - Fatalities: Unknown\n  - Effects on communities and infrastructure: Significant damage led to the relocation of events like the Paradise Jam basketball tournament and necessitated federal disaster relief efforts, including food, water, and tarp distribution.\n\n- **Likelihood of multi-hazard risks:** High, given the sequential impact of Hurricanes Irma and Maria, increasing the risk of further infrastructure damage and humanitarian needs.\n\n- **Best practices for managing this risk:** \n  - Establishing and maintaining robust emergency shelters and evacuation plans.\n  - Pre-positioning supplies and resources for rapid distribution post-disaster.\n  - Strengthening infrastructure to withstand severe weather events.\n\n- **Recommendations and supportive measures for recovery:**\n  - Continued federal and local support for relief distribution and rebuilding efforts.\n  - Investment in resilient infrastructure to mitigate future storm impacts.\n  - Community engagement in recovery planning to ensure needs are met effectively.",
+  "knowledge_graph_original": "```json\n[\n  [\"Hurricane Maria\", \"causes\", \"infrastructure damage\"],\n  [\"Hurricane Irma\", \"causes\", \"infrastructure damage\"],\n  [\"infrastructure damage\", \"causes\", \"economic damage\"],\n  [\"infrastructure damage\", \"causes\", \"evacuations\"],\n  [\"infrastructure damage\", \"causes\", \"relocation of events\"],\n  [\"infrastructure damage\", \"causes\", \"humanitarian needs\"],\n  [\"emergency shelters\", \"prevents\", \"casualties\"],\n  [\"evacuation plans\", \"prevents\", \"casualties\"],\n  [\"pre-positioned supplies\", \"prevents\", \"humanitarian needs\"],\n  [\"resilient infrastructure\", \"prevents\", \"future storm impacts\"]\n]\n```",
+  "knowledge_graph_with_citations": [
+    {
+      "source": "Hurricane Maria",
+      "relation": "causes",
+      "target": "infrastructure damage",
+      "question": "What specific factors and conditions during Hurricane Maria led to the infrastructure damage in the United States Virgin Islands, and what evidence from news reports supports this causal relationship?",
+      "answer": "Hurricane Maria caused significant infrastructure damage in the United States Virgin Islands, particularly on St. Croix, due to its ferocious winds. The storm's intensity was such that it forced the relocation of events like the Paradise Jam hoops tournament, which had initially considered St. Croix as a host after Hurricane Irma impacted St. Thomas. However, the damage from Maria's winds on St. Croix was severe enough to necessitate moving the event to the mainland [1]. This indicates that the storm's winds were a critical factor in the infrastructure damage experienced on the island.\n\nAdditionally, the anticipation of severe conditions led to preemptive evacuations and relocations, such as the movement of residents from the heavily damaged Tutu Hi-Rise housing community and the relocation of Seaview Nursing Home residents to Lockhart Elementary School on St. Thomas [2]. These actions suggest that the expected impact of the storm on infrastructure was significant enough to warrant such measures, further supporting the causal relationship between the storm's conditions and the resulting damage.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "source": "Hurricane Irma",
+      "relation": "causes",
+      "target": "infrastructure damage",
+      "question": "What specific factors and conditions during Hurricane Irma led to the infrastructure damage in the United States Virgin Islands, and what evidence from news reports supports this causal relationship?",
+      "answer": "The infrastructure damage in the United States Virgin Islands during Hurricane Irma was primarily caused by the hurricane's intense winds and the subsequent impact on the islands' facilities. Hurricane Irma, which struck St. Thomas on September 6, 2017, brought ferocious winds that caused widespread damage, prompting considerations to relocate events such as the Paradise Jam hoops tournament due to the compromised infrastructure [1]. The severity of the storm's impact is further evidenced by the evacuation of residents from heavily damaged areas, such as the Tutu Hi-Rise housing community, indicating significant structural damage [2]. Additionally, the relocation of vulnerable populations, such as residents of the Seaview Nursing Home, to alternative shelters underscores the extent of the damage to essential facilities [2]. These reports collectively highlight the destructive power of Hurricane Irma's winds as a primary factor in the infrastructure damage experienced in the United States Virgin Islands.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "source": "infrastructure damage",
+      "relation": "causes",
+      "target": "economic damage",
+      "question": "What specific instances of infrastructure damage during the storm in the United States Virgin Islands led to significant economic losses, and how were these impacts reported in news articles?",
+      "answer": "The infrastructure damage in the United States Virgin Islands during the storm, particularly from Hurricane Maria, led to significant economic losses. One specific instance of infrastructure damage was the impact on the Paradise Jam basketball tournament. Originally scheduled to be held at the University of the Virgin Islands’ Sports and Fitness Center on St. Thomas, the tournament had to be relocated to the mainland due to the damage caused by Hurricane Maria's ferocious winds on St. Croix, which followed the earlier impact of Hurricane Irma on St. Thomas [1]. This relocation likely resulted in economic losses related to tourism and local business revenue that would have been generated by hosting the event locally.\n\nAdditionally, the widespread damage on St. Croix from Hurricane Maria's winds was significant enough to force the consideration of alternative locations for events and activities, indicating substantial infrastructure challenges [1]. The need to relocate residents from damaged housing communities and nursing homes, as well as the establishment of shelters at full capacity, further underscores the extent of the infrastructure damage and its economic implications [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "source": "infrastructure damage",
+      "relation": "causes",
+      "target": "evacuations",
+      "question": "What specific instances of infrastructure damage during the storm in the United States Virgin Islands led to the necessity for evacuations, and how were these evacuations carried out according to news reports?",
+      "answer": "During the storm in the United States Virgin Islands, specific instances of infrastructure damage necessitated evacuations. In St. Thomas, the heavily damaged Tutu Hi-Rise housing community led to the evacuation of some remaining residents [1]. Additionally, residents of the Seaview Nursing Home on St. Thomas were relocated to Lockhart Elementary School, where they were housed in a separate wing from other shelter residents [1]. Public officials established shelters at various locations, including Lockhart Elementary in Estate Thomas, which reached full capacity, and Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents as of Tuesday morning [1]. The Knud Hansen Health Complex was also used as a shelter, but it too had reached capacity [1]. These measures were part of the broader evacuation efforts in response to the damage caused by the storm.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "infrastructure damage",
+      "relation": "causes",
+      "target": "relocation of events",
+      "question": "What specific instances of infrastructure damage during the storm in the United States Virgin Islands led to the relocation of events, and how were these relocations reported in news articles?",
+      "answer": "The infrastructure damage caused by Hurricane Maria in the United States Virgin Islands led to the relocation of the Paradise Jam basketball tournament. Initially, the tournament directors considered hosting the event on St. Croix after Hurricane Irma had impacted St. Thomas. However, the severe damage inflicted by Hurricane Maria's winds on St. Croix forced them to explore other options. Ultimately, they decided to relocate the event to the mainland United States. This decision was reported in news articles, which noted that the directors had also considered hosting the tournament on St. Thomas with accommodations aboard a docked cruise ship, but they concluded that moving it to the mainland was the best solution [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "infrastructure damage",
+      "relation": "causes",
+      "target": "humanitarian needs",
+      "question": "What specific instances of infrastructure damage during the storm in the United States Virgin Islands led to increased humanitarian needs, and how were these needs addressed in the aftermath?",
+      "answer": "The infrastructure damage in the United States Virgin Islands during the storm, particularly from Hurricane Maria, led to significant humanitarian needs. On St. Croix, the storm caused widespread damage, which necessitated the establishment of distribution sites for essential supplies such as food, water, and tarps. These sites were set up at the Cotton Valley fire station, Juanita Gardine Elementary School, Alexander Henderson Junior High School, and St. Croix Educational Complex High School. The distribution was initially limited to one case of Meals Ready-to-Eat (MREs) and three liters of water per person, but there was potential for more supplies to be distributed if additional resources arrived [1].\n\nIn response to the increased humanitarian needs, federal disaster relief efforts began on St. Croix, and distribution of supplies was coordinated to occur during a curfew suspension between noon and 4 p.m. [1]. Additionally, on St. Thomas, residents of the Seaview Nursing Home were relocated to Lockhart Elementary School, which served as a shelter, although it had reached capacity. Other shelters were established at Bertha C. Boschulte Middle School and Knud Hansen Health Complex, though the latter was also full [2]. These measures were part of the broader efforts to address the immediate needs of the affected populations in the aftermath of the storm.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "source": "emergency shelters",
+      "relation": "prevents",
+      "target": "casualties",
+      "question": "What specific measures did emergency shelters implement during the storm in the United States Virgin Islands that effectively reduced casualties, and what evidence is there from news reports to support this impact?",
+      "answer": "During the storm in the United States Virgin Islands, emergency shelters implemented several measures to accommodate and protect residents, which likely contributed to reducing casualties. One significant measure was the establishment of multiple shelters across the islands to provide refuge for residents. For instance, shelters were set up at Lockhart Elementary in Estate Thomas, Bertha C. Boschulte Middle School in Estate Bovoni, and Knud Hansen Health Complex [1]. These shelters were crucial in providing safe havens for residents during the storm.\n\nAdditionally, specific actions were taken to ensure the safety and well-being of vulnerable populations. For example, residents of the Seaview Nursing Home on St. Thomas were relocated to Lockhart Elementary School, where they were housed in a separate wing from other shelter residents [1]. This measure helped to protect elderly and potentially more vulnerable individuals from the storm's impact.\n\nWhile the sources do not provide direct evidence of the impact of these measures on casualty reduction, the proactive establishment of shelters and the relocation of vulnerable populations suggest a strategic approach to minimizing harm during the storm. The presence of these shelters likely played a role in reducing potential casualties by providing secure environments for those affected by the hurricane.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "evacuation plans",
+      "relation": "prevents",
+      "target": "casualties",
+      "question": "What specific evidence from news reports demonstrates how the implementation of evacuation plans in the United States Virgin Islands during the storm effectively reduced casualties?",
+      "answer": "The news reports provide specific evidence of evacuation efforts in the United States Virgin Islands during the storm, which likely contributed to reducing casualties. For instance, some residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, as mentioned by Mapp [1]. Additionally, residents of the Seaview Nursing Home on St. Thomas were relocated to Lockhart Elementary School, where they were housed in a separate wing from other shelter residents [1]. Public officials also established shelters at various locations, including Lockhart Elementary in Estate Thomas, Bertha C. Boschulte Middle School in Estate Bovoni, and Knud Hansen Health Complex, although some of these shelters reached capacity [1]. These proactive measures in relocating vulnerable populations and establishing shelters likely played a role in minimizing casualties during the storm.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "pre-positioned supplies",
+      "relation": "prevents",
+      "target": "humanitarian needs",
+      "question": "How did the pre-positioned supplies in the United States Virgin Islands specifically prevent or mitigate humanitarian needs during the storm event, according to reports from news articles?",
+      "answer": "The pre-positioned supplies in the United States Virgin Islands played a crucial role in mitigating humanitarian needs during the storm event by ensuring that essential resources were available for distribution immediately after the storm. On St. Croix, federal disaster relief efforts included the distribution of food, water, and tarps at four designated locations: the Cotton Valley fire station, Juanita Gardine Elementary School, Alexander Henderson Junior High School, and St. Croix Educational Complex High School [1]. This distribution was organized to begin in accordance with a curfew suspension, allowing residents to access these critical supplies between noon and 4 p.m. [1]. The initial distribution was limited to one case of Meals Ready-to-Eat (MREs) and three liters of water per person, but there was potential for more supplies to be distributed if additional resources arrived before noon [1]. This proactive measure helped address immediate food and water needs, reducing the potential for a humanitarian crisis in the aftermath of the storm. Additionally, similar distribution efforts were resumed on St. Thomas, further supporting the islands' residents [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "source": "resilient infrastructure",
+      "relation": "prevents",
+      "target": "future storm impacts",
+      "question": "What specific examples from the storm event in the United States Virgin Islands demonstrate how resilient infrastructure effectively mitigated future storm impacts?",
+      "answer": "The provided sources do not contain specific examples of resilient infrastructure in the United States Virgin Islands that effectively mitigated future storm impacts. The sources primarily focus on the immediate response and logistical challenges following the storms, such as the distribution of disaster relief supplies on St. Croix [1], the relocation of the Paradise Jam basketball tournament due to damage from the storms [2], and the evacuation and sheltering of residents in response to Hurricane Maria [3]. None of these sources provide information on resilient infrastructure or its role in mitigating future storm impacts.",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "source_id": 3,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 3
+    }
+  ],
+  "n_links": 10,
+  "n_articles": 3,
+  "total_citations": 16,
+  "nodes_with_citations": [
+    {
+      "node": "Hurricane Irma",
+      "question": "What specific evidence is available regarding the impact of Hurricane Irma on the infrastructure and communities in the United States Virgin Islands?",
+      "answer": "Hurricane Irma caused significant damage to the infrastructure and communities in the United States Virgin Islands, particularly on St. Thomas, where the Tutu Hi-Rise housing community was heavily damaged, prompting evacuations [1]. The storm's impact also led to the relocation of events, such as the Paradise Jam basketball tournament, which was initially considered for St. Croix but ultimately moved to the mainland due to the damage caused by subsequent Hurricane Maria [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "Hurricane Maria",
+      "question": "What evidence is available regarding the impact of Hurricane Maria on the infrastructure and economy of the United States Virgin Islands?",
+      "answer": "Hurricane Maria caused significant damage to the infrastructure of the United States Virgin Islands, as evidenced by the relocation of the Paradise Jam basketball tournament due to the destruction on St. Croix and St. Thomas [1]. The storm also led to the establishment of emergency shelters and the relocation of residents from damaged housing and nursing homes, indicating severe impacts on housing infrastructure [2]. Additionally, the need for federal disaster relief, including food, water, and tarp distribution, highlights the economic strain and immediate humanitarian needs following the hurricane [3].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "source_id": 3,
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "n_citations": 3
+    },
+    {
+      "node": "casualties",
+      "question": "What evidence is available regarding the number and circumstances of casualties resulting from the storm in the United States Virgin Islands, and how did these casualties impact the overall emergency response and recovery efforts?",
+      "answer": "The sources provided do not contain specific information regarding the number and circumstances of casualties resulting from the storm in the United States Virgin Islands. However, they do describe the emergency response efforts, such as the distribution of food, water, and tarps on St. Croix and St. Thomas, and the establishment of shelters for displaced residents, indicating a significant impact on the community and the need for organized relief efforts [1][2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "economic damage",
+      "question": "What evidence is available regarding the economic damage caused by the storm in the United States Virgin Islands, and how did this impact the local economy and recovery efforts?",
+      "answer": "The economic damage in the United States Virgin Islands, particularly on St. Croix, was significant due to Hurricane Maria's ferocious winds, which caused widespread damage and forced the relocation of events like the Paradise Jam hoops tournament to the mainland, impacting local tourism and revenue generation [1]. Recovery efforts included federal disaster relief with the distribution of essential supplies such as food, water, and tarps, indicating a strain on local resources and infrastructure [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "emergency shelters",
+      "question": "What evidence is there regarding the role and impact of emergency shelters during the storm in the United States Virgin Islands, particularly in terms of their effectiveness in providing safety and resources to affected residents?",
+      "answer": "Emergency shelters played a crucial role in providing safety to residents during the storm in the United States Virgin Islands. For instance, the Lockhart Elementary School in Estate Thomas served as a shelter, although it reached full capacity, indicating high demand and utilization [1]. Additionally, the Bertha C. Boschulte Middle School continued to accept residents, demonstrating the shelters' effectiveness in accommodating and protecting those affected by the storm [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "evacuation plans",
+      "question": "What evidence is there regarding the effectiveness and impact of evacuation plans during the storm event in the United States Virgin Islands, and how did these plans influence the safety and outcomes for the affected population?",
+      "answer": "Evacuation plans in the United States Virgin Islands during the storm event included relocating residents from vulnerable areas, such as the Tutu Hi-Rise housing community and the Seaview Nursing Home, to designated shelters like Lockhart Elementary School and Bertha C. Boschulte Middle School [1]. These measures were crucial in ensuring the safety of the affected population, as they provided secure locations for residents during the storm, although some shelters reached capacity, indicating a need for more resources [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "evacuations",
+      "question": "What evidence is there regarding the effectiveness and impact of evacuation procedures during the storm in the United States Virgin Islands, and how did these measures influence the overall safety and outcomes for the affected population?",
+      "answer": "Evacuation procedures in the United States Virgin Islands during the storm included relocating residents from vulnerable areas, such as the Tutu Hi-Rise housing community and Seaview Nursing Home, to designated shelters like Lockhart Elementary and Bertha C. Boschulte Middle School [1]. These measures helped ensure the safety of the affected population by providing secure locations, although some shelters reached capacity, indicating a need for more resources [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "future storm impacts",
+      "question": "What evidence is available regarding the projected future impacts of storms on the United States Virgin Islands, and how might these impacts influence disaster preparedness and response strategies in the region?",
+      "answer": "The projected future impacts of storms on the United States Virgin Islands include widespread damage, as evidenced by Hurricane Maria's ferocious winds that hit St. Croix, forcing the relocation of events like the Paradise Jam tournament to the mainland due to the island's compromised infrastructure [1]. This highlights the need for robust disaster preparedness and response strategies, such as establishing multiple distribution sites for essential supplies and creating shelters to accommodate displaced residents, as seen in the aftermath of recent storms [2][3].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "source_id": 3,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 3
+    },
+    {
+      "node": "humanitarian needs",
+      "question": "What evidence is available regarding the specific humanitarian needs that arose in the United States Virgin Islands following the storm, and how did these needs impact the overall disaster response and recovery efforts?",
+      "answer": "Following the storm, the United States Virgin Islands faced significant humanitarian needs, including the distribution of food, water, and tarps, which were organized at multiple locations on St. Croix and St. Thomas to address immediate necessities [1]. The disaster response also involved relocating residents from damaged housing and nursing homes to shelters, although some shelters quickly reached capacity, indicating a strain on resources and the need for efficient management of available facilities [2].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "n_citations": 2
+    },
+    {
+      "node": "infrastructure damage",
+      "question": "What evidence is available regarding the extent and impact of infrastructure damage caused by the storm in the United States Virgin Islands, and how did this damage affect the overall recovery efforts and daily life in the affected areas?",
+      "answer": "The infrastructure damage in the United States Virgin Islands was significant, with Hurricane Maria causing widespread destruction on St. Croix, which led to the relocation of events like the Paradise Jam hoops tournament to the mainland due to the inability to host it locally [1]. Recovery efforts included the distribution of essential supplies such as food, water, and tarps at designated locations on St. Croix, indicating a disruption in daily life and the need for organized relief efforts [2]. Additionally, shelters were established in various locations, but some reached capacity, highlighting the strain on local resources and the challenges faced in accommodating displaced residents [3].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "source_id": 3,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 3
+    },
+    {
+      "node": "pre-positioned supplies",
+      "question": "What evidence is there regarding the role or impact of pre-positioned supplies in mitigating the effects of the storm in the United States Virgin Islands?",
+      "answer": "Pre-positioned supplies played a crucial role in mitigating the effects of the storm in the United States Virgin Islands by enabling immediate distribution of essential items such as food, water, and tarps at designated locations on St. Croix and St. Thomas following the storm's impact [1]. The initial distribution was limited to one case of MREs and three liters of water per person, but additional supplies were expected to arrive, potentially increasing the amount of aid distributed [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "relocation of events",
+      "question": "What evidence is there regarding the role or impact of event relocation in mitigating the effects of storms in the United States Virgin Islands?",
+      "answer": "The relocation of the Paradise Jam hoops tournament from the United States Virgin Islands to the mainland was a strategic decision to mitigate the impact of storms, specifically after Hurricane Irma and Hurricane Maria caused significant damage to St. Thomas and St. Croix, respectively [1]. This decision allowed the event to proceed without the logistical challenges and safety concerns posed by the storm-damaged infrastructure on the islands [1].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 1
+    },
+    {
+      "node": "resilient infrastructure",
+      "question": "What evidence is there to demonstrate the role or impact of resilient infrastructure in mitigating the effects of the storm in the United States Virgin Islands?",
+      "answer": "The sources do not provide specific evidence regarding the role or impact of resilient infrastructure in mitigating the effects of the storm in the United States Virgin Islands. They focus on the immediate disaster relief efforts, such as the distribution of food, water, and tarps on St. Croix and the relocation of events like the Paradise Jam tournament due to the damage caused by the hurricanes [1][2][3].",
+      "citations": [
+        {
+          "source_id": 1,
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "source_id": 2,
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "source_id": 3,
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "retrieved_contexts": [
+        {
+          "content": "Federal disaster relief begins on St. Croix Officials also plan to begin food, water, and tarp distribution on St. Croix in the aftermath of the storm at four locations: • The Cotton Valley fire station. • Juanita Gardine Elementary School. • Alexander Henderson Junior High School. • St. Croix Educational Complex High School. Intitial distribution will begin today, in accordance with a curfew suspension between the hours of noon and 4 p.m., Mapp said. Officials said Thursday that distribution will be limited to one case of MREs and three liters of water, but additional supplies could arrive before noon today, which would allow more supplies to be distributed, he said. Distribution sites on St. Thomas also will resume giving out MREs. water and tarps today, according to Mapp.",
+          "metadata": {
+            "title": "Federal disaster relief begins on St. Croix",
+            "url": "http://www.virginislandsdailynews.com/breaking/federal-disaster-relief-begins-on-st-croix/article_96602d56-799e-54ad-864e-ddea06ff9862.html",
+            "pubdate": "2017-09-23T04:37:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-6b19413e06d0476761c99c7881b09330"
+          }
+        },
+        {
+          "content": "Paradise Jam hoops tourney relocating to mainland Tourney directors said they considered having St. Croix host the event after Hurricane Irma blew through St. Thomas on Sept. 6, but they were forced to look at other options when Hurricane Maria’s ferocious winds hit St. Croix on Wednesday, causing widespread damage to that island.\n\nHaving the tournament back on St. Thomas with accommodations aboard a docked cruise ship was one option Paradise Jam directors said they mulled over, but ultimately they decided that shifting the event to the mainland was the solution.\n\nEach participating team in the 2017 men’s and women’s field has been sent a request for proposal, offering each university the opportunity to bid to host their respective events, the press release stated. Tournament directors said they will finalize locations by Friday.\n\nMore than a dozen teams were slated to participate in the tournament at the University of the Virgin Islands’ Sports and Fitness Center, starting on Nov. 17 and wrapping up on Nov. 25. This year’s men’s lineup includes Wake Forest University, the alma mater of USVI and NBA basketball great Tim Duncan.",
+          "metadata": {
+            "title": "Paradise Jam hoops tourney relocating to mainland",
+            "url": "http://www.virginislandsdailynews.com/news/paradise-jam-hoops-tourney-relocating-to-mainland/article_846922f7-3f44-5270-badb-bfef955a1b3c.html",
+            "pubdate": "2017-09-23T07:07:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-9f6a44a6a7dccc41045ffeba555fd072"
+          }
+        },
+        {
+          "content": "St. Croix expecting the worst from Hurricane Maria Some remaining residents of the heavily damaged Tutu Hi-Rise housing community had evacuated, Mapp said. Residents of the Seaview Nursing Home on St. Thomas had been relocated to Lockhart Elementary School in a separate wing from other shelter residents, officials said. Public officials have established shelters at the following places: • Lockhart Elementary in Estate Thomas, though V.I. Territorial Emergency Management Agency Director Mona Barnes said it was full. • Bertha C. Boschulte Middle School in Estate Bovoni, which was still accepting residents Tuesday morning. • Knud Hansen Health Complex, though Barnes said it, too had reached capacity.",
+          "metadata": {
+            "title": "St. Croix expecting the worst from Hurricane Maria",
+            "url": "http://www.virginislandsdailynews.com/breaking/st-croix-expecting-the-worst-from-hurricane-maria/article_17ed4043-7c44-5725-9afc-c61234ab684f.html",
+            "pubdate": "2017-09-20T01:38:00Z",
+            "source": "virginislandsdailynews",
+            "guid": "virginislandsdailynews-11f2c6da74e997e91fb9fdee3d84e984"
+          }
+        }
+      ],
+      "n_citations": 3
+    }
+  ],
+  "n_nodes": 13,
+  "total_node_citations": 25
+}
